@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.13.2
+
+### Patch Changes
+
+- b086b0b: **Declarative layout:** Add missing member `order` to `LayoutChildProps` interface
+- 1bd52f1: **Dropdown:** Fix background color of selected option in dark mode
+
 ## 2.13.1
 
 ### Patch Changes
